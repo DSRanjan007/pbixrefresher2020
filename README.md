@@ -53,7 +53,7 @@ You can use the closesession.bat, just edit the username with yours. Instead of 
 
 -- 
 1. open cmd and check python command are running or not if not then check enviroment variables and system variable.
-2. one configure then create a new enviroment with python using conda create --name test python=3.7
+2. once configure then create a new enviroment with python using conda create --name test python=3.7
 3. then install pbixrefresher using pip
 4. now replcae the pbixrefresher file in dierectory of test envirment of ananconda 3 in c drive
 5. then to run it using task scheduler create a basic task then in program give pbixrefresher.exe file location C:\Users\RanjanKeshri\anaconda3\envs\test2\Scripts\pbixrefresher.exe
